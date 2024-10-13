@@ -31,7 +31,7 @@
                 <div class="text-2xl font-bold text-[#5A72A0] ml-2">Gerak Aksi</div>
             </div>
             <nav class="flex items-center space-x-8 text-lg text-[#5A72A0]">
-                <a href="homa-page.php" class="nav-link">Home</a>
+                <a href="home-page.php" class="nav-link">Home</a>
                 <a href="galang-dana.php" class="nav-link">Galang Dana</a>
                 <a href="donasi-saya.php" class="nav-link">Donasi Saya</a>
                 <a href="inbox.php" class="nav-link">Inbox</a>
