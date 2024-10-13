@@ -31,7 +31,7 @@
                 <div class="text-2xl font-bold text-[#5A72A0] ml-2">Gerak Aksi</div>
             </div>
             <nav class="flex items-center space-x-8 text-lg text-[#5A72A0]">
-                <a href="homa-page.php" class="nav-link">Home</a>
+                <a href="home-page.php" class="nav-link">Home</a>
                 <a href="galang-dana.php" class="nav-link">Galang Dana</a>
                 <a href="donasi-saya.php" class="nav-link">Donasi Saya</a>
                 <a href="inbox.php" class="nav-link">Inbox</a>
@@ -115,7 +115,7 @@
                         <div class="bg-green-500 h-2.5 rounded-full" style="width: 14.59%;"></div>
                     </div>
                     <p class="text-sm text-gray-600 mb-2">Rp 2,918,500 terkumpul dari Rp 20,000,000</p>
-                    <button id="donate1" class="bg-[#FEF9D9] text-gray-800 px-4 py-2 mt-4 rounded-full w-full">Donasi</button>
+                    <button id="donate1" class="bg-[#FEF9D9] text-[#5A72A0] px-4 py-2 mt-4 rounded-full w-full">Donasi</button>
                 </div>
         
                 <!-- Item 2 -->
