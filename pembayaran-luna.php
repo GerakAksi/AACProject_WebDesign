@@ -248,6 +248,7 @@
                         
     
                         <!-- Social Media Icons -->
+                        <div class="flex items-start space-x-4 mt-4"
                         <a href="https://www.facebook.com/profile.php?id=61566359445557&mibextid=ZbWKwL" target="_blank">
                             <img src="img/Facebook.png" alt="facebook logo" class="h-4 md:h-5 lg:h-8">
                         </a>
