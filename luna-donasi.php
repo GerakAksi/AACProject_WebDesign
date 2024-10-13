@@ -164,7 +164,7 @@
             // Menambahkan event listener saat DOM sepenuhnya dimuat
             document.addEventListener('DOMContentLoaded', function() {
                 // URL tujuan setelah klik tombol "Lanjut Pembayaran Donasi"
-                const destinationUrl = 'Pembayaran LUNA.html'; // Ganti dengan URL yang sesuai
+                const destinationUrl = 'pembayaran-jaga-satwa.php'; // Ganti dengan URL yang sesuai
         
                 // Menangkap elemen tombol "Lanjut Pembayaran Donasi"
                 const donateButton = document.querySelector('button.w-full.px-4.py-2.bg-[#5A72A0]');
