@@ -48,7 +48,7 @@
         <section class="relative p-8">
             <div class="flex justify-end space-x-10 items-start"> <!-- justify-end menggeser konten ke kanan -->
                 <!-- Gambar Luna -->
-                <img src="img/6 UNESA PEDULI LIMAJANG.jpg" alt="Luna" class="w-56 h-56 object-cover rounded-lg border border-[#5A72A0]"> 
+                <img src="img/6 UNESA PEDULI LUMAJANG.jpg" alt="Luna" class="w-56 h-56 object-cover rounded-lg border border-[#5A72A0]"> 
                 
                 <!-- Informasi Kampanye -->
                 <div class="flex-1 max-w-md">
