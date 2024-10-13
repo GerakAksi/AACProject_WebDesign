@@ -34,7 +34,7 @@
                 <a href="home-page.php" class="nav-link">Home</a>
                 <a href="galang-dana.php" class="nav-link">Galang Dana</a>
                 <a href="donasi-saya.php" class="nav-link">Donasi Saya</a>
-                <a href="innbox.php" class="nav-link">Inbox</a>
+                <a href="inbox.php" class="nav-link">Inbox</a>
                 <a href="voluntrip.php" class="nav-link">VolunTrip</a>
                 <a href="akun-saya.php">
                     <img src="img/profile.png" alt="User Profile" class="rounded-full h-8">
