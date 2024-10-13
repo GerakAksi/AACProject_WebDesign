@@ -60,16 +60,7 @@
                 <h2 class="text-2xl font-bold text-[#5A72A0]">#BestiAksi Saat ini</h2>
                 <a id="viewMoreButton" href="#" class="text-[#5A72A0] bg-white text-[#5A72A0] px-4 py-2 rounded-full shadow-lg hover:bg-yellow-200">Lihat lainnya</a>
             </div>
-        
-            <!-- Kegiatan 1 -->
-            <section class="container mx-auto py-8">
-                <!-- Wrapper untuk bg kuning mencakup seluruh elemen -->
-                <div class="bg-[#FEF9D9] shadow-lg rounded-lg py-8 px-12 max-w-4xl mx-auto">
-                    <div class="flex justify-between items-center mb-6">
-                        <h2 class="text-2xl font-bold text-[#5A72A0]">#BestiAksi Saat ini</h2>
-                        <a id="viewMoreButton" href="#" class="text-[#5A72A0] bg-white text-[#5A72A0] px-4 py-2 rounded-full shadow-lg hover:bg-yellow-200">Lihat lainnya</a>
-                    </div>
-                    
+                                
                     <!-- Kegiatan 1 -->
                     <div class="mb-8 bg-white shadow-md rounded-lg overflow-hidden transform scale-90">
                         <div class="w-full">
