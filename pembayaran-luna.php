@@ -37,7 +37,7 @@
                 <a href="inbox.php" class="nav-link">Inbox</a>
                 <a href="voluntrip.php" class="nav-link">VolunTrip</a>
                 <a href="akun.saya.php">
-                    <img src="https://via.placeholder.com/40" alt="User Profile" class="rounded-full h-8">
+                    <img src="img/profile.png" alt="User Profile" class="rounded-full h-8">
                 </a>
             </nav>
         </div>
