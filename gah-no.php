@@ -124,7 +124,7 @@
                         <div class="bg-green-500 h-2.5 rounded-full" style="width: 14.59%;"></div>
                     </div>
                     <p class="text-sm text-[#5A72A0] mb-2">Rp 2,918,500 terkumpul dari Rp 20,000,000</p>
-                    <button class="bg-[#5A72A0] text-[#5A72A0] px-4 py-2 mt-4 rounded-full w-full">Donasi</button>
+                    <button id="donate1" class="bg-gray-300 text-gray-800 px-4 py-2 mt-4 rounded-full w-full">Donasi</button>
                 </div>
     
                 <!-- Item 2 -->
@@ -135,7 +135,7 @@
                         <div class="bg-green-500 h-2.5 rounded-full" style="width: 12%;"></div>
                     </div>
                     <p class="text-sm text-[#5A72A0] mb-2">Rp 1,200,000 terkumpul dari Rp 10,000,000</p>
-                    <button class="bg-[#5A72A0] text-[#5A72A0] px-4 py-2 mt-4 rounded-full w-full">Donasi</button>
+                    <button id="donate1" class="bg-gray-300 text-gray-800 px-4 py-2 mt-4 rounded-full w-full">Donasi</button>
                 </div> 
             </div>
         </div>
