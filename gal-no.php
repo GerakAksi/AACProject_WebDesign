@@ -31,11 +31,11 @@
                 <div class="text-2xl font-bold text-[#5A72A0] ml-2">Gerak Aksi</div>
             </div>
             <nav class="flex items-center space-x-8 text-lg text-[#5A72A0]">
-                <a href="home-page.php" class="nav-link">Home</a> <!-- Replace with your actual page -->
-                <a href="galang-dana.php" class="nav-link">Galang Dana</a> <!-- Replace with your actual page -->
-                <a href="donasi-saya.php" class="nav-link">Donasi Saya</a> <!-- Replace with your actual page -->
-                <a href="inbox.php" class="nav-link">Inbox</a> <!-- Replace with your actual page -->
-                <a href="voluntrip.php" class="nav-link">VolunTrip</a> <!-- Replace with your actual page -->
+                <a href="index.php" class="nav-link">Home</a> <!-- Replace with your actual page -->
+                <a href="gd.php" class="nav-link">Galang Dana</a> <!-- Replace with your actual page -->
+                <a href="login.php" class="nav-link">Donasi Saya</a> <!-- Replace with your actual page -->
+                <a href="login.php" class="nav-link">Inbox</a> <!-- Replace with your actual page -->
+                <a href="vn.php" class="nav-link">VolunTrip</a> <!-- Replace with your actual page -->
                 <a href="login.php" class="border border-[#5A72A0] px-4 py-2 rounded-full text-[#5A72A0] mr-2 hover:bg-yellow-100">Login</a>
                 <a href="register.php" class="bg-[#FEF9D9] text-[#5A72A0] px-4 py-2 rounded-full hover:bg-yellow-100">Get Started</a>
             </nav>
