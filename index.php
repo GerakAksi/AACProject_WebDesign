@@ -228,6 +228,32 @@
             </div>
         </div>
     </section>
+
+        <script>
+    // Select all elements with the class 'donate-button'
+    const donateButtons = document.querySelectorAll('.donate-button');
+    
+    // Loop through each button and add an event listener
+    donateButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            const campaignId = button.getAttribute('data-campaign-id');
+            // Redirect based on campaign ID
+            if (campaignId === '1') {
+                window.location.href = 'login.php';
+            } else if (campaignId === '2') {
+                window.location.href = 'login.php';
+            } else if (campaignId === '3') {
+                window.location.href = 'login.php';
+            } else if (campaignId === '4') {
+                window.location.href = 'login.php';
+            } else if (campaignId === '5') {
+                window.location.href = 'login.php';
+            } else if (campaignId === '6') {
+                window.location.href = 'login.php';
+            }
+        });
+    });
+</script>
     
     
     
