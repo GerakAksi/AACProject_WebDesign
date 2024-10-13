@@ -226,8 +226,7 @@
                     <h4 class="text-[#5A72A0] font-bold mb-4">Support</h4>
                     <ul class="space-y-2">
                         <li><a href="help-center.php" class="text-[#5A72A0] hover:text-gray-900">Help Center</a></li>
-                        <li><a href="contact-us.php" class="text-[#5A72A0] hover:text-gray-900">Contact Us</a></li>
-                        <li><a href="privacy-policy.php" class="text-[#5A72A0] hover:text-gray-900">Privacy Policy</a></li>
+                        <li><a href="chat-support.php" class="text-[#5A72A0] hover:text-gray-900">Chat Support</a></li>
                     </ul>
                 </div>
             </div>
