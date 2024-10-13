@@ -54,7 +54,7 @@
                 <div class="flex-1 max-w-md">
                     <h1 class="text-2xl font-bold mb-2 text-[#5A72A0]">Sembuhkan Luna, Korban Tabrak Lari hingga Patah Tulang</h1>
                     <div class="flex items-center mb-4">
-                        <img src="img1 SEMBUHKAN LUNA.png" alt="Logo" class="w-8 h-8 rounded-full mr-2">
+                        <img src="img/1 SEMBUHKAN LUNA.png" alt="Logo" class="w-8 h-8 rounded-full mr-2">
                         <div class="text-sm text-[#5A72A0]">Jaga Satwa UNESA</div>
                     </div>
                     
