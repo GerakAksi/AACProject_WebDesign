@@ -96,7 +96,7 @@
 
         <script>
             // Ganti URL di bawah dengan URL halaman kategori aksi Anda
-            const kategoriAksiUrl = 'luna-donasi.php';
+            const kategoriAksiUrl = 'home-page.php';
         
             // Menangkap elemen tombol kembali
             const backButton = document.getElementById('back-button');
@@ -137,7 +137,7 @@
         
         <!-- Lanjut Pembayaran Donasi Button -->
         <div class="mt-8 text-center max-w-4xl">
-            <button class="w-full px-4 py-2 bg-[#5A72A0] text-white rounded-lg shadow-md hover:bg-[#4B5C7E] transition duration-150">
+             <button id="donateButton" class="w-full px-4 py-2 bg-[#5A72A0] text-white rounded-lg shadow-md hover:bg-[#4B5C7E] transition duration-150">
                 Lanjut Pembayaran Donasi
             </button>
         </div>
@@ -167,20 +167,15 @@
                 const destinationUrl = 'pembayaran-luna.php'; // Ganti dengan URL yang sesuai
         
                 // Menangkap elemen tombol "Lanjut Pembayaran Donasi"
-                const donateButton = document.querySelector('button.w-full.px-4.py-2.bg-[#5A72A0]');
+                const donateButton = document.getElementById('donateButton');
                 
                 // Menambahkan event listener untuk tombol
                 donateButton.addEventListener('click', function(event) {
                     // Mencegah perilaku default jika ada
                     event.preventDefault();
                 
-                    // Menampilkan konfirmasi sebelum melanjutkan
-                    const confirmation = confirm('Apakah Anda yakin ingin melanjutkan ke halaman pembayaran donasi?');
+                    window.location.href = destinationUrl; // Pastikan ini adalah URL yang valid
                 
-                    // Jika pengguna mengonfirmasi, arahkan ke URL tujuan
-                    if (confirmation) {
-                        window.location.href = destinationUrl; // Pastikan ini adalah URL yang valid
-                    }
                 });
             });
         </script>
